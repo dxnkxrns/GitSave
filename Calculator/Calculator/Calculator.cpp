@@ -1,11 +1,7 @@
-// Calculator.cpp : Defines the entry point for the console application.
-//
+//Calculator.cpp
 
 #include "stdafx.h"
+#include "function.h
 
-
-int _tmain(int argc, _TCHAR* argv[])
+int main
 {
-	return 0;
-}
-
